@@ -1,4 +1,4 @@
-** LogiSimple
+== LogiSimple
 Simple giter8 template for starting a new scala project. It includes:
 
 * scalaz-core 7.1.0-M3
